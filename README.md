@@ -1,4 +1,4 @@
-# Homework 3: Fish Finder
+# Fish Finder
 ## Author: Lorenzo Mendoza
 ## Run Program
 To run this program, you can either run the Python script "fishfinder.py" with set default values (or you change change parameter from the called functions) or feel free to use the Jupyter Notebook if you like "fishfinder.ipynb".
